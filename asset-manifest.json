@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/luxuryproducts/static/css/main.292945c3.css",
+    "main.js": "/luxuryproducts/static/js/main.2a5f366d.js",
+    "static/js/453.11c27296.chunk.js": "/luxuryproducts/static/js/453.11c27296.chunk.js",
+    "static/media/ch1.png": "/luxuryproducts/static/media/ch1.2ad1d46176b93b1f3154.png",
+    "static/media/ch2.png": "/luxuryproducts/static/media/ch2.23a5af97dee3234e84ec.png",
+    "static/media/imageh.jpg": "/luxuryproducts/static/media/imageh.034f00a7ba8e2a4b01d2.jpg",
+    "static/media/logo.png": "/luxuryproducts/static/media/logo.7784ab243da186637439.png",
+    "static/media/dots.png": "/luxuryproducts/static/media/dots.09b319763b02345682db.png",
+    "static/media/logo1.png": "/luxuryproducts/static/media/logo1.b932b2560aba7ffc13ae.png",
+    "static/media/support.png": "/luxuryproducts/static/media/support.cc8b68e98fd1b1e150c1.png",
+    "static/media/shop.png": "/luxuryproducts/static/media/shop.863bd81beb6516fe4ff7.png",
+    "static/media/phone.png": "/luxuryproducts/static/media/phone.511e02a777073274e34c.png",
+    "static/media/location.png": "/luxuryproducts/static/media/location.ec1bd046583c2021d095.png",
+    "static/media/shipping.png": "/luxuryproducts/static/media/shipping.ed072f356d493da498ca.png",
+    "static/media/returns.png": "/luxuryproducts/static/media/returns.a29e2cacba3e0f5e5b3b.png",
+    "static/media/mail.png": "/luxuryproducts/static/media/mail.acf276902b784d30b118.png",
+    "index.html": "/luxuryproducts/index.html",
+    "main.292945c3.css.map": "/luxuryproducts/static/css/main.292945c3.css.map",
+    "main.2a5f366d.js.map": "/luxuryproducts/static/js/main.2a5f366d.js.map",
+    "453.11c27296.chunk.js.map": "/luxuryproducts/static/js/453.11c27296.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.292945c3.css",
+    "static/js/main.2a5f366d.js"
+  ]
+}
