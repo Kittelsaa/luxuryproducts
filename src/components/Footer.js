@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styles/Common.css';
 import logo1 from '../images/logo1.png';
+import menuu from '../images/menuu.png';
 
 
 
@@ -21,6 +22,8 @@ export default function Footer() {
           <li className='navlinkf' >Services</li>
           <li className='navlinkf' >Blogs</li>
         </ul>
+        <img className='bplus1' src={menuu} alt='lg'></img> 
+
       </div>
       <h6 className='copy'>@2024 Luxury. All rights reserved </h6> 
     </footer>

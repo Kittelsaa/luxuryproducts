@@ -20,11 +20,11 @@ export default function Body() {
     <div className='body'>
 
       <section className='section1'>
-        <h4 className='phome'>
+        <h4 className='phomeb'>
           Trending <code>Products</code> 
         </h4>
-        <p className='phome1'>
-          Turn your room with luxury into a lot more <br/>
+        <p className='phomeb1'>
+          Turn your room with luxury into a lot more <br id='brb'/>
           minimalist and modern
         </p>
       </section>
@@ -56,7 +56,7 @@ export default function Body() {
             Why Choose <code> Us</code> 
           </p>
           <p className='phom1'>
-            Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. <br />
+            Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. <br id='brp1'/>
             Aliquam vulputate velit imperdiet dolor tempor tristique.
           </p>
           <section className='gridwhy'>
@@ -131,7 +131,7 @@ export default function Body() {
         <div class="cardc">
         <img className='img' src={mail} alt='lg'></img>
           <h2> Email Us</h2>
-          <p> no-reply@luxury.com </p>
+          <p> no-reply @luxury.com </p>
         </div>
         <div class="cardcm">
         <img className='img' src={phone} alt='lg'></img>

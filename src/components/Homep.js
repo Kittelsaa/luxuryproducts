@@ -16,11 +16,11 @@ export default function Homep() {
           <div className='welcomehp'>
             <h6 className='headeh'>TRENDY COLLECTIONS</h6>
             <p className='phome'>
-              Make your <code>interior</code> <br/>
-              unique & modern 
+              Make your <br id='br'/>  <code>interior</code> <br/> 
+              unique &  modern 
             </p>
             <p className='phome1'>
-              Turn your room with luxury into a lot more <br/>
+              Turn your room with luxury into a lot more <br id='br1'/>
               minimalist and modern
             </p>
             <button className='gitbutton1' >Discover More</button>

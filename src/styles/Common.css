@@ -61,6 +61,14 @@
     cursor: pointer;
     border: none;
 }
+.bplus{
+    display: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
 
 
 
@@ -110,6 +118,9 @@
     font-family: 'Poppins';
     font-weight: 400;
     font-size: 40px;
+}
+.phome #br{
+    display: none;
 }
 .phome1{
     color: #000;
@@ -223,4 +234,138 @@
     text-align: right;
     margin-right: 8%;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mobile screens--- 740px w */
+@media only screen and (max-width: 740px) {
+    .home{
+        position: relative;
+        margin: 0%;
+        padding: 0%;
+        background-color: #fff;
+    }
+    .navlinks {
+        display: none;
+    }
+    .gitbutton{
+        display: none;
+    }
+    .logo{
+        margin: 4%;
+        padding: 0%;
+        width: 46%;
+    }
+    .bplus{
+        display: block;
+        margin: 6%;
+        padding: 0%;
+        width: 10%;
+        height: 10%;
+        float: right;
+    }
+    .welc{
+        padding: 0%;
+        margin: 8%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .welcomehp{
+        width: 35%;
+        padding: 0%;
+        width: 100%;
+    }
+    .phome{
+        font-size: 30px;
+        margin: 0%;
+        padding: 0%;
+        width: 90%;
+        margin-bottom: 4%;
+        margin-top: 0%;
+    }
+    .phome code{
+        font-size: 30px;
+    }
+    .phome #br{
+        display: block;
+    }
+    .phome1{
+        font-size: 15px;
+        margin: 0%;
+        margin-bottom: 4%;
+        padding: 0%;
+    }
+    .phome1 #br1{
+        display: none;
+    }
+    .gitbutton1{
+        margin: 0%;
+        padding-right: 7%;
+        padding-left: 7%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        color: #fff; 
+        font-size: 13px;
+        border-radius: 13px;
+        cursor: pointer;
+        border: none;
+    }
+    .ch2{
+        width: 35.4%;
+        height: 6.2%;
+        padding: 0%;
+        margin: 0%;
+        margin-top: -1%;
+        margin-left: 48%;
+        position: absolute;
+        object-fit: cover;
+    }
+
+
+
+    /* footer */
+    .logof{
+        margin: 0%;
+        margin-top: 5%;
+        padding: 0%;
+        width: 44%;
+    }
+    .fdiv p{
+        font-size: 13px;
+        text-align: left;
+    }
+    .navlinksf {
+        display: none;
+    }
+    .copy {
+        font-size: 12px;
+        text-align: right;
+        margin-right: 5%;
+    }
+    .bplus1{
+        display: block;
+        margin: 0%;
+        padding: 0%;
+        margin-top: 6%;
+        width: 9%;
+        height: 9%;
+        float: right;
+    }
+
+
+}
+
+
 

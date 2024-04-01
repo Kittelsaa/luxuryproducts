@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styles/Common.css';
-import logo from '../images/logo.png'
+import logo from '../images/logo.png';
+import list from '../images/list.png';
 
 
 
@@ -15,6 +16,7 @@ export default function Header() {
         <li className='navlink' >Blogs</li>
       </ul>
       <button className='gitbutton' >Contact</button>
+      <img className='bplus' src={list} alt='lg'></img> 
     </nav>
   )
 }
