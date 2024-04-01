@@ -216,30 +216,26 @@
 .whyimage{
     margin: 0%;
     padding: 0%;
-    display: flex;
     align-items: center;
     margin-top: -8%;
 }
 .whyimage img{
-    margin-right: 4%;
+    margin-right: 0%;
 }
 .furntd{
     margin: 0%;
     padding: 0%;
-    margin-top: -32%;
-    margin-left: 8%;
-    width: 35%;
-    justify-content: center; 
-    align-items: center; 
+    margin-top: -30%;
+    margin-left: -50%;
+    width: 40%;
 }
 .furnt{
     margin: 0%;
     padding: 0%;
-    margin-top: 22%;
-    margin-left: -32%;
-    width: 60%;
-    justify-content: center; 
-    align-items: center; 
+    margin-top: -6%;
+    margin-left: -14%;
+    width: 27%;
+    position: absolute;
 }
 
 
@@ -471,9 +467,23 @@
     .whyimage{
         width: 70%;
         margin-top: 13%;
-        margin-left: 52%;
+        margin-left: 2%;
         position: absolute;
-        object-fit: cover;
+    }
+    .furntd{
+        margin: 0%;
+        padding: 0%;
+        margin-top: 2%;
+        margin-left: 26%;
+        width: 32%;
+    }
+    .furnt{
+        margin: 0%;
+        padding: 0%;
+        margin-top: 14%;
+        margin-left: -24%;
+        width: 50%;
+        position: absolute;
     }
     .gridwhyx .img{
         width: 26%;
